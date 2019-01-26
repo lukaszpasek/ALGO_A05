@@ -16,17 +16,17 @@ For each set, write the shortest (relative to the number of instructions) progra
 
 Example
 For input data:
-3
-4
-L 60 F 3 R 120 F 3
-4
-F 1 R 120 F 1 R 120
-3
-F 5 L 180 B 5
-The possible answer is:
-2
-F 3 R 60
-2
-R 240 B 1
-2
-F 10 R 180
+3  
+4  
+L 60 F 3 R 120 F 3  
+4  
+F 1 R 120 F 1 R 120  
+3  
+F 5 L 180 B 5  
+The possible answer is:  
+2  
+F 3 R 60  
+2  
+R 240 B 1  
+2  
+F 10 R 180  

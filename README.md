@@ -15,7 +15,7 @@ Exit
 For each set, write the shortest (relative to the number of instructions) program giving the same end result (robot position and orientation). The program should be written in the same format as the entry (however, you can use the value 𝑣 to 2 * 109). If there are many possible programs with the minimum number of instructions, you can write any of them.
 
 Example
-For input data: The possible answer is:
+For input data:
 3
 4
 L 60 F 3 R 120 F 3
@@ -23,6 +23,7 @@ L 60 F 3 R 120 F 3
 F 1 R 120 F 1 R 120
 3
 F 5 L 180 B 5
+The possible answer is:
 2
 F 3 R 60
 2
